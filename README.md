@@ -18,7 +18,7 @@ A 5GMSd Application Function (AF), which can be deployed in the 5G Core Network 
 
 This AF uses the [Open5GS](https://open5gs.org/) framework to implement the network function.
 
-A list of currently supported features is available [here](docs/features.md).
+A list of currently supported features is available [here](https://5g-mag.github.io/Getting-Started/pages/5g-media-streaming/repositories/features5GMSAF.html).
 
 ## Install dependencies
 
